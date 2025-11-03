@@ -1,4 +1,4 @@
-# AT compatible Resume Creator Agent
+# ATS compatible Resume Creator Agent
 
 This project is an AI-powered Resume Creator agent implemented in a Jupyter Notebook. It automates the process of generating ATS (Applicant Tracking System) optimized resumes from user-uploaded PDF files and additional textual inputs.
 
